@@ -1,0 +1,18 @@
+﻿  Source.cpp
+C:\Users\moneeb\source\repos\Project10\Project10\Source.cpp(67,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\moneeb\source\repos\Project10\Project10\Source.cpp(82,44): warning C4805: '==': unsafe mix of type 'unsigned int' and type 'bool' in operation
+C:\Users\moneeb\source\repos\Project10\Project10\Source.cpp(88,51): warning C4018: '>': signed/unsigned mismatch
+C:\Users\moneeb\source\repos\Project10\Project10\Source.cpp(124,48): warning C4805: '==': unsafe mix of type 'unsigned int' and type 'bool' in operation
+C:\Users\moneeb\source\repos\Project10\Project10\Source.cpp(130,55): warning C4018: '>': signed/unsigned mismatch
+C:\Users\moneeb\source\repos\Project10\Project10\Source.cpp(167,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\moneeb\source\repos\Project10\Project10\Source.cpp(190,52): warning C4805: '==': unsafe mix of type 'unsigned int' and type 'bool' in operation
+C:\Users\moneeb\source\repos\Project10\Project10\Source.cpp(192,35): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\moneeb\source\repos\Project10\Project10\Source.cpp(205,47): warning C4018: '<': signed/unsigned mismatch
+C:\Users\moneeb\source\repos\Project10\Project10\Source.cpp(228,64): warning C4805: '==': unsafe mix of type 'unsigned int' and type 'bool' in operation
+C:\Users\moneeb\source\repos\Project10\Project10\Source.cpp(323,31): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\moneeb\source\repos\Project10\Project10\Source.cpp(362,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\moneeb\source\repos\Project10\Project10\Source.cpp(377,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\moneeb\source\repos\Project10\Project10\Source.cpp(392,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\moneeb\source\repos\Project10\Project10\Source.cpp(536,56): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\moneeb\source\repos\Project10\Project10\Source.cpp(557,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Project10.vcxproj -> C:\Users\moneeb\source\repos\Project10\Debug\Project10.exe
